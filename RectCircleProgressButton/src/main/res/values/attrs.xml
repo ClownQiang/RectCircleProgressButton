@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RectCircleProgressButton">
+        <attr name="rcpb_rec_text" format="string"/>
+        <attr name="rcpb_rec_text_color" format="color"/>
+        <attr name="rcpb_rec_text_size" format="dimension"/>
+        <attr name="rcpb_rec_color" format="color"/>
+        <attr name="rcpb_rec_to_circle_color" format="color"/>
+        <attr name="rcpb_circle_color" format="color"/>
+        <attr name="rcpb_rec_stoke_width" format="dimension"/>
+        <attr name="rcpb_rec_to_circle_interval" format="integer"/>
+        <attr name="rcpb_rotate_speed" format="integer"/>
+    </declare-styleable>
+</resources>
