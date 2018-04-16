@@ -1,11 +1,11 @@
-#RectCircleProgressButton
+# RectCircleProgressButton
 
 
 前段时间工作需要用到一个按钮的效果，但是简单做了一下，最近闲下来一点整理了一下，代码略乱，欢迎各种类型issue，后续看看再整理吧。
 
 <img src="./screenshot/android.gif" width="400">
 
-###怎么使用
+### 怎么使用
 ```
 dependencies {
     compile 'com.clownqiang:RectCircleProgressButton:1.0.1'
@@ -29,7 +29,7 @@ dependencies {
         />
 ```
 
-###配置
+### 配置
 ```
 rcpb_rec_text 按钮显示文字，默认显示Download
 rcpb_rec_text_color 文字颜色
